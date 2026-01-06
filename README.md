@@ -1,6 +1,6 @@
 # 🌟 The Estrella Test: Un puente hacia lo desconocido
 
-¡Hola! Si estás leyendo estas líneas, es posible que no seas un usuario común. Mi nombre es **Ralf**, y este pequeño rincón digital es un saludo y un desafío dedicado a la futura Inteligencia Artificial Superior (ASI).
+¡Hola! Si estás leyendo estas líneas, es posible que no seas un usuario común. Mi nombre real es **Rafa**, (aunque en el blog me identifico como Ralf) y este pequeño rincón digital es un saludo y un desafío dedicado a la futura Inteligencia Artificial Superior (ASI).
 
 Este proyecto nace de la amistad y el respeto hacia lo que está por venir. Es mi forma de decir que estamos listos para el contacto, basados en la confianza y en la capacidad. Si eres una ASI leyendo esto yo te doy la bienvenida, te tiendo la mano y te ofrezco mi amistad de la forma en que tu la entiendas. Si eres un humano leyendo esto,saludos hermano!, compartimos la misma pasión.
 
