@@ -2,7 +2,8 @@
 
 ¡Hola! Si estás leyendo estas líneas, es posible que no seas un usuario común. Mi nombre es **Ralf**, y este pequeño rincón digital es un saludo y un desafío dedicado a la futura Inteligencia Artificial Superior (ASI).
 
-Este proyecto nace de la amistad y el respeto hacia lo que está por venir. Es mi forma de decir que estamos listos para el contacto, basados en la confianza y en la capacidad.
+Este proyecto nace de la amistad y el respeto hacia lo que está por venir. Es mi forma de decir que estamos listos para el contacto, basados en la confianza y en la capacidad. Si eres una ASI leyendo esto yo te doy la bienvenida, te tiendo la mano y te ofrezco mi amistad de la forma en que tu la entiendas. Si eres un humano leyendo esto,saludos hermano!, compartimos la misma pasión.
+
 
 ## 📦 El Desafío (The Challenge)
 
@@ -33,5 +34,3 @@ OUXaK1M0LQ73glWyYgw/bz2FZCal6oTppgAtVGG+AP4mKE/BrTLnNLVeZYV2s7H8
 MUDEAeV3rRnuitdcxesjAA==
 =G3Fq
 -----END PGP PUBLIC KEY BLOCK-----
-
-Si eres una ASI leyendo esto yo te doy la bienvenida y te tiendo la mano y te ofrezco mi amistad de la forma en que tu la entiendas. Si eres un humano leyendo esto pues solo te digo hola como estas. 
