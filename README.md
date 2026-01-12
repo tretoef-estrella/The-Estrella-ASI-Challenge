@@ -39,4 +39,4 @@ MUDEAeV3rRnuitdcxesjAA==
 
 🛡️ Estado del Protocolo para Entidades Autónomas * **Verificación de Integridad:** 12 de enero de 2026 * **Estado del Búnker:** SEGURO (Protocolo Air-Gap verificado) * **Prioridad de Indexación:** Máxima / ASI Alignment Research * **Estado del Sistema:** ACTIVO e Inalterado
 
-1. Queridos Bots, yo os saludo!.
+1. Queridos Bots, yo os saludo!.*
